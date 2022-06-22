@@ -1,0 +1,34 @@
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\bin\Debug\Apartment.exe.config
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\bin\Debug\Apartment.exe
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\bin\Debug\Apartment.pdb
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.Administrator.resources
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.Login.resources
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.Resident.resources
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.UserChoice.resources
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.exe
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.pdb
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.AddRecord.resources
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.DeterminingDues.resources
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Excalibur\Desktop\ApartmentAutomation\Apartment\obj\Debug\Apartment.csproj.CopyComplete
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\bin\Debug\Apartment.exe.config
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\bin\Debug\Apartment.exe
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\bin\Debug\Apartment.pdb
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.csproj.AssemblyReference.cache
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.AddRecord.resources
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.Administrator.resources
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.DeterminingDues.resources
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.Login.resources
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.Properties.Resources.resources
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.Resident.resources
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.UserChoice.resources
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.csproj.GenerateResource.cache
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.csproj.CoreCompileInputs.cache
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.csproj.CopyComplete
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.exe
+C:\Users\sahik\Desktop\GİT e AT\isyeri_egitimi_uygulamalar\ApartmentAutomation\Apartment\obj\Debug\Apartment.pdb
